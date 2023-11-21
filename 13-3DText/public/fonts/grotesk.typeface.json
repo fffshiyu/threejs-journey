@@ -1,0 +1,120 @@
+{
+    "glyphs": {
+        ".": {
+            "ha": 322,
+            "x_min": 0,
+            "x_max": 0,
+            "o": "m 42 0 l 281 0 l 281 239 l 42 239 z "
+        },
+        "c": {
+            "ha": 697,
+            "x_min": 0,
+            "x_max": 0,
+            "o": "m 28 310 b 367 -17 28 113 171 -17 b 672 253 553 -17 657 103 l 488 267 b 369 153 472 190 435 153 b 254 310 301 153 254 199 b 369 467 254 421 301 467 b 488 354 435 467 472 431 l 672 367 b 367 636 657 515 553 636 b 28 310 171 636 28 506 z "
+        },
+        "h": {
+            "ha": 764,
+            "x_min": 0,
+            "x_max": 0,
+            "o": "m 286 304 b 393 458 286 397 317 458 b 485 329 461 458 485 414 l 485 0 l 710 0 l 710 389 b 486 636 710 518 656 636 b 286 526 393 636 319 594 l 286 875 l 61 875 l 61 0 l 286 0 z "
+        },
+        "i": {
+            "ha": 347,
+            "x_min": 0,
+            "x_max": 0,
+            "o": "m 61 619 l 61 0 l 286 0 l 286 619 z m 60 678 l 288 678 l 288 875 l 60 875 z "
+        },
+        "k": {
+            "ha": 760,
+            "x_min": 0,
+            "x_max": 0,
+            "o": "m 286 196 l 340 251 l 518 0 l 771 0 l 507 376 l 763 619 l 499 619 l 286 406 l 286 875 l 61 875 l 61 0 l 286 0 z "
+        },
+        "l": {
+            "ha": 347,
+            "x_min": 0,
+            "x_max": 0,
+            "o": "m 61 875 l 61 0 l 286 0 l 286 875 z "
+        },
+        "r": {
+            "ha": 550,
+            "x_min": 0,
+            "x_max": 0,
+            "o": "m 542 613 b 456 636 526 625 493 636 b 286 510 374 636 308 579 l 286 619 l 61 619 l 61 0 l 286 0 l 286 283 b 421 426 286 388 338 426 b 528 400 464 426 497 418 z "
+        },
+        "F": {
+            "x_min": 0,
+            "x_max": 683.328125,
+            "ha": 717,
+            "o": "m 683 888 l 140 888 l 140 583 l 613 583 l 613 458 l 140 458 l 140 0 l 0 0 l 0 1013 l 683 1013 l 683 888 "
+        },
+        "Ό": {
+            "x_min": 0.109375,
+            "x_max": 1120,
+            "ha": 1217,
+            "o": "m 1120 505 q 994 132 1120 282 q 642 -29 861 -29 q 290 130 422 -29 q 167 505 167 280 q 294 883 167 730 q 650 1046 430 1046 q 999 882 868 1046 q 1120 505 1120 730 m 977 504 q 896 784 977 669 q 644 915 804 915 q 391 785 484 915 q 307 504 307 669 q 391 224 307 339 q 644 95 486 95 q 894 224 803 95 q 977 504 977 339 m 277 1040 l 83 799 l 0 799 l 140 1040 l 277 1040 "
+        },
+        "O": {
+            "x_min": 0,
+            "x_max": 958,
+            "ha": 1057,
+            "o": "m 485 1041 q 834 882 702 1041 q 958 512 958 734 q 834 136 958 287 q 481 -26 702 -26 q 126 130 261 -26 q 0 504 0 279 q 127 880 0 728 q 485 1041 263 1041 m 480 98 q 731 225 638 98 q 815 504 815 340 q 733 783 815 669 q 480 912 640 912 q 226 784 321 912 q 142 504 142 670 q 226 224 142 339 q 480 98 319 98 "
+        },
+        "J": {
+            "x_min": 0,
+            "x_max": 588,
+            "ha": 699,
+            "o": "m 588 279 q 287 -26 588 -26 q 58 73 126 -26 q 0 327 0 158 l 133 327 q 160 172 133 227 q 288 96 198 96 q 426 171 391 96 q 449 336 449 219 l 449 1013 l 588 1013 l 588 279 "
+        },
+        "E": {
+            "x_min": 0,
+            "x_max": 736.109375,
+            "ha": 789,
+            "o": "m 736 0 l 0 0 l 0 1013 l 725 1013 l 725 889 l 139 889 l 139 585 l 677 585 l 677 467 l 139 467 l 139 125 l 736 125 l 736 0 "
+        },
+        "N": {
+            "x_min": 0,
+            "x_max": 801,
+            "ha": 914,
+            "o": "m 801 0 l 651 0 l 131 823 l 131 0 l 0 0 l 0 1013 l 151 1013 l 670 193 l 670 1013 l 801 1013 l 801 0 "
+        },
+        "I": {
+            "x_min": 41,
+            "x_max": 180,
+            "ha": 293,
+            "o": "m 180 0 l 41 0 l 41 1013 l 180 1013 l 180 0 "
+        }
+    },
+    "familyName": "Test Founders Grotesk Bold",
+    "ascender": 875,
+    "descender": -514,
+    "underlinePosition": -69,
+    "underlineThickness": 56,
+    "boundingBox": {
+        "yMin": -303,
+        "xMin": -124,
+        "yMax": 1331,
+        "xMax": 1610
+    },
+    "resolution": 1000,
+    "original_font_information": {
+        "format": 0,
+        "copyright": "Copyright 2021, Kris Sowersby, Klim Type Foundry.",
+        "fontFamily": "Test Founders Grotesk Bold",
+        "fontSubfamily": "Regular",
+        "uniqueID": "1.001;KLIM;FoundersGrotesk-Bold;Test",
+        "fullName": "Test FoundersGrotesk-Bold",
+        "version": "Version 1.001;PS 1.000;hotconv 1.0.57;makeotf.lib2.0.21895",
+        "postScriptName": "TestFoundersGrotesk-Bold",
+        "trademark": "Founders Grotesk is either a registered trademark or a trademark of 2010 Klim Type Foundry in New Zealand and/or other countries.",
+        "manufacturer": "Klim Type Foundry",
+        "designer": "Kris Sowersby",
+        "manufacturerURL": "https://klim.co.nz/",
+        "designerURL": "https://klim.co.nz/",
+        "licenceURL": "https://klim.co.nz/licences/test-fonts/",
+        "preferredFamily": "Test Founders Grotesk",
+        "preferredSubfamily": "Bold"
+    },
+    "cssFontWeight": "normal",
+    "cssFontStyle": "normal"
+}
